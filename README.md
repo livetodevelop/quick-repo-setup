@@ -1,2 +1,2 @@
 # quick-repo-setup
-a small roject i made that quickly sets up a repo for you.
+a small project i made that quickly sets up a repo for you.
